@@ -1,0 +1,15 @@
+C:\Users\Ксю\Desktop\Git Education\Final_test_work\final_test_work_1\bin\Debug\net6.0\final_test_work_1.exe
+C:\Users\Ксю\Desktop\Git Education\Final_test_work\final_test_work_1\bin\Debug\net6.0\final_test_work_1.deps.json
+C:\Users\Ксю\Desktop\Git Education\Final_test_work\final_test_work_1\bin\Debug\net6.0\final_test_work_1.runtimeconfig.json
+C:\Users\Ксю\Desktop\Git Education\Final_test_work\final_test_work_1\bin\Debug\net6.0\final_test_work_1.dll
+C:\Users\Ксю\Desktop\Git Education\Final_test_work\final_test_work_1\bin\Debug\net6.0\final_test_work_1.pdb
+C:\Users\Ксю\Desktop\Git Education\Final_test_work\final_test_work_1\obj\Debug\net6.0\final_test_work_1.csproj.AssemblyReference.cache
+C:\Users\Ксю\Desktop\Git Education\Final_test_work\final_test_work_1\obj\Debug\net6.0\final_test_work_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ксю\Desktop\Git Education\Final_test_work\final_test_work_1\obj\Debug\net6.0\final_test_work_1.AssemblyInfoInputs.cache
+C:\Users\Ксю\Desktop\Git Education\Final_test_work\final_test_work_1\obj\Debug\net6.0\final_test_work_1.AssemblyInfo.cs
+C:\Users\Ксю\Desktop\Git Education\Final_test_work\final_test_work_1\obj\Debug\net6.0\final_test_work_1.csproj.CoreCompileInputs.cache
+C:\Users\Ксю\Desktop\Git Education\Final_test_work\final_test_work_1\obj\Debug\net6.0\final_test_work_1.dll
+C:\Users\Ксю\Desktop\Git Education\Final_test_work\final_test_work_1\obj\Debug\net6.0\refint\final_test_work_1.dll
+C:\Users\Ксю\Desktop\Git Education\Final_test_work\final_test_work_1\obj\Debug\net6.0\final_test_work_1.pdb
+C:\Users\Ксю\Desktop\Git Education\Final_test_work\final_test_work_1\obj\Debug\net6.0\final_test_work_1.genruntimeconfig.cache
+C:\Users\Ксю\Desktop\Git Education\Final_test_work\final_test_work_1\obj\Debug\net6.0\ref\final_test_work_1.dll
